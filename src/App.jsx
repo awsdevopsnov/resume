@@ -32,9 +32,9 @@ function App() {
         <h1 class="Title">
           <span class="u-shadow">
             AWS<br/>
-            DEVOPS ENGINEER
+            DEVOPS 
           </span>
-          <span class="Title-sub">Cloud Developer</span>
+          <span class="Title-sub">ENGINEER</span>
         </h1>
       </a>
     </div>
@@ -48,7 +48,7 @@ function App() {
   <section class="l-Section">
     <h2 class="l-Section-title h3 u-hidden@sm-down">Profile</h2>
     <div class="l-Section-content">
-      <p>I specialize in component based HTML/CSS architecture, with a focus on maintainability and scalability, a mobile first approach.</p>
+      <p>I specialize in AWS cloud, with a focus on maintainability and scalability, a mobile first approach.</p>
     </div>
   </section>
 
